@@ -1,5 +1,7 @@
 # JoyAI-VL-Interaction Usage
 
+> 中文文档: [README.zh-CN.md](./README.zh-CN.md)
+
 Dataset: https://huggingface.co/datasets/jdopensource/JoyAI-VL-Interaction
 
 ### 1. Download Annotations
@@ -84,4 +86,3 @@ The script creates one user/assistant pair for each second. If a question starts
   }
 ]
 ```
-
