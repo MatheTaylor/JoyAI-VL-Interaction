@@ -253,3 +253,16 @@ Experimental results may vary on different hardware and datasets.
 ## 📄 License
 ![License-MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 [MIT](https://opensource.org/licenses/MIT)
+
+
+---
+
+Crafted with ❤️ by the MatheTaylor/JoyAI-VL-Interaction team.
+
+If this project helps you, please give it a ⭐ — it means a lot!
+
+[![Follow](https://img.shields.io/badge/follow-MatheTaylor-blue?style=social&logo=github)](https://github.com/MatheTaylor)
+[![Twitter](https://img.shields.io/twitter/follow/MatheTaylor?style=social)](https://twitter.com/MatheTaylor)
+
+[![License-MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Back to top](https://img.shields.io/badge/Back-to%20top-9ca3af)](#repo)
