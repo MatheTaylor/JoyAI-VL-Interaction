@@ -244,3 +244,12 @@ If JoyAI-VL-Interaction helps your research or products, please cite:
 ## 📄 License
 
 This project is licensed under the Apache License 2.0. See [LICENSE](LICENSE) for details.
+
+
+## 📚 Citation
+If this code helps your research, please cite our paper.
+## ⚠️ Reproducibility
+Experimental results may vary on different hardware and datasets.
+## 📄 License
+![License-MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[MIT](https://opensource.org/licenses/MIT)
